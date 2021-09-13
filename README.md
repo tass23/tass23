@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raist/A.J.
+- 👋 Hi, I’m Raist, or A.J. to some.
 - 👀 I am currently using GitHub as a resource for compiling a custom UO freeshard called UO-The Expanse,
 -    as well as maintaing a secondary ServUO Repo with additional staff support tools installed for
 -    ServUO.com

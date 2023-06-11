@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raist/Tass, or A.J. to some.
 - 👀 I am currently using GitHub as a resource for developing and hosting a custom Ultima Online free shard called
-- UO-The Expanse, which can be found at: www.uoexpanse.com.
+- UO-The Expanse repo, which can be found at: www.uoexpanse.com.
 - 
 - This is an extensively customized version of UO Stygian Abyss v7.0.12 running on a hybrid emulator engine from
 - RunUO2.0/Orb3.0/ServUO Pub 54, with thousands of C# files and hundreds of edits, plus more custom content created

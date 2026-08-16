@@ -16,6 +16,8 @@
 - 
 - 📫 How to reach me on Discord: https://discord.gg/d6xUazt3t4
 
+- UPDATE: 2026
+- Slowly phased away from Github after the Microsoft takeover. None of my previous repos are available on Github anymore.
 <!---
 tass23/tass23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
